@@ -5,6 +5,18 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@drawable/csl"
+    android:background="@drawable/ajayj"
     tools:context="com.project2.ajayj.ajaycalculator.LauncherActivity">
-    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingTop="220sp"
+        android:text="Welcome"
+        android:textColor="@color/white"
+        android:textSize="60sp" />
+
+
+</LinearLayout>

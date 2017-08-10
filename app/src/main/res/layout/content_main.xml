@@ -85,7 +85,7 @@
                 android:layout_weight="0.5"
                 android:background="@drawable/button_icon"
                 android:text="7"
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 android:textSize="25sp" />
 
             <Button
@@ -96,7 +96,7 @@
                 android:layout_marginLeft="3dp"
                 android:background="@drawable/button_icon"
                 android:text="8"
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 android:textSize="25sp" />
 
             <Button
@@ -107,7 +107,7 @@
                 android:layout_marginLeft="3dp"
                 android:background="@drawable/button_icon"
                 android:text="9"
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 android:textSize="25sp" />
 
             <Button
@@ -116,7 +116,7 @@
                 android:layout_height="60dp"
                 android:layout_weight="0.5"
                 android:layout_marginLeft="3dp"
-                android:background="@drawable/button_icon3"
+                android:background="@drawable/button_icon4"
                 android:text="DEL"
                 android:textSize="25sp" />
 
@@ -140,7 +140,7 @@
                 android:layout_weight="0.5"
                 android:background="@drawable/button_icon"
                 android:text="4"
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 android:textSize="25sp" />
 
 
@@ -152,7 +152,7 @@
                 android:layout_marginLeft="3dp"
                 android:background="@drawable/button_icon"
                 android:text="5"
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 android:textSize="25sp" />
 
             <Button
@@ -163,7 +163,7 @@
                 android:layout_marginLeft="3dp"
                 android:background="@drawable/button_icon"
                 android:text="6"
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 android:textSize="25sp" />
 
 
@@ -197,7 +197,7 @@
                 android:layout_weight="0.5"
                 android:background="@drawable/button_icon"
                 android:text="1"
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 android:textSize="25sp" />
 
 
@@ -209,7 +209,7 @@
                 android:layout_marginLeft="3dp"
                 android:background="@drawable/button_icon"
                 android:text="2"
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 android:textSize="25sp" />
 
 
@@ -221,7 +221,7 @@
                 android:layout_marginLeft="3dp"
                 android:background="@drawable/button_icon"
                 android:text="3"
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 android:textSize="25sp" />
 
 
@@ -248,24 +248,24 @@
             android:weightSum="2">
 
             <Button
-                android:id="@+id/numberbtn0"
-                android:layout_width="wrap_content"
-                android:layout_height="60dp"
-                android:layout_weight="0.5"
-                android:background="@drawable/button_icon"
-                android:text="0"
-                android:textColor="@color/black"
-                android:textSize="25sp" />
-
-            <Button
                 android:id="@+id/dotbtn"
                 android:layout_width="wrap_content"
                 android:layout_height="60dp"
                 android:layout_weight="0.5"
-                android:layout_marginLeft="3dp"
                 android:background="@drawable/button_icon5"
                 android:text="."
                 android:textColor="@color/black"
+                android:textSize="25sp" />
+
+            <Button
+                android:id="@+id/numberbtn0"
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:layout_weight="0.5"
+                android:layout_marginLeft="3dp"
+                android:background="@drawable/button_icon"
+                android:text="0"
+                android:textColor="@color/white"
                 android:textSize="25sp" />
 
             <Button
