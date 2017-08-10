@@ -174,7 +174,7 @@
                 android:layout_weight="0.5"
                 android:layout_marginLeft="3dp"
                 android:background="@drawable/button_icon5"
-                android:text="/"
+                android:text="÷"
                 android:textSize="25sp" />
 
 
@@ -232,7 +232,7 @@
                 android:layout_weight="0.5"
                 android:layout_marginLeft="3dp"
                 android:background="@drawable/button_icon5"
-                android:text="*"
+                android:text="×"
                 android:textSize="25sp" />
 
 
