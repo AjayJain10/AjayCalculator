@@ -42,9 +42,7 @@ public class MainActivity extends AppCompatActivity {
         toolbar.setTitleTextColor(Color.BLACK);
 
 
-        final Drawable upArrow = getResources().getDrawable(R.drawable.abc_ic_ab_back_material);
-        upArrow.setColorFilter(getResources().getColor(R.color.black), PorterDuff.Mode.SRC_ATOP);
-        getSupportActionBar().setHomeAsUpIndicator(upArrow);
+
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
